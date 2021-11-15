@@ -5,4 +5,4 @@
  - Create a database with SQLite
  - Define functions that allow the user to use address book
  - Connect the python script with my database, and interact with it thanks to SQL
- - Build a user interface 
+ - Build a user interface which carries the functions
