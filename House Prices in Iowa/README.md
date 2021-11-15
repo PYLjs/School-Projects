@@ -2,8 +2,8 @@
 ### Grade : 15.2/20 
 ### For this exam I had to predict the price of houses in Iowa. 
  I did the following tasks :
- - Create a database with SQLite
- - Define functions that allow the user to use address book
- - Connect the python script with my database, and interact with it thanks to SQL
- - Build a user interface which carries the functions
+ - Clean and encode the dataset
+ - Make an exploratory data analysis
+ - Choose and build a machine learning model
+ - Measure the accuracy of the model
  - Lead an oral presentation of the project in front of the class
