@@ -7,4 +7,4 @@
  - Define functions that allow the user to use address book
  - Connect the python script with my database, and interact with it thanks to SQL
  - Build a user interface which carries the functions
- - Oral presentation of the project in front of the class
+ - Lead an oral presentation of the project in front of the class
