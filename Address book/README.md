@@ -1,5 +1,5 @@
-![tum](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Logo_of_the_Technical_University_of_Munich.svg/149px-Logo_of_the_Technical_University_of_Munich.svg.png)
-### Grade : 14.8/20
+
+### Grade : 14.8/20 ![tum](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Logo_of_the_Technical_University_of_Munich.svg/149px-Logo_of_the_Technical_University_of_Munich.svg.png)
 ### For this exam I had to build an address book and a user interface. 
  I did the following tasks :
  - Create a database with SQLite
